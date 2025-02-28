@@ -1,9 +1,14 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv  # <-- Import dotenv
 
-# Replace with your Habitica credentials
-HABITICA_USER_ID = "YO408f770c-7a79-46f5-abb3-129a9b6697bf"
-HABITICA_API_TOKEN = "ca74e49f-0b9e-443f-90a0-01ba7e52a1d1"
+# Load environment variables from .env file
+load_dotenv()
+
+# Get Habitica credentials from environment variables
+HABITICA_USER_ID = os.getenv("HABITICA_USER_ID")
+HABITICA_API_TOKEN = os.getenv("HABITICA_API_TOKEN")
 HABITICA_API_URL = "https://habitica.com/api/v3/tasks/user"
 
 # URL to fetch Habitica tasks from GitHub
