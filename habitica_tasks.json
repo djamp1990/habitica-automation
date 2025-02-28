@@ -1,0 +1,492 @@
+
+[
+{
+    "ID": "d2f8e406-877e-4d91-939f-276f9fa99def",
+    "Type": "habit",
+    "Text": "Review previous concepts (flashcards, notes, exercises)",
+    "Alias": "python_review",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "9af68333-5544-4774-94b2-3c829092a891",
+    "Type": "habit",
+    "Text": "Automate a real-world task with Python",
+    "Alias": "python_automation",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "7f6cdc54-1211-4d84-b8de-a1de068387a5",
+    "Type": "habit",
+    "Text": "Apply a new concept in a project",
+    "Alias": "python_project_application",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "93071456-495d-4d73-9197-6ebad6a76419",
+    "Type": "habit",
+    "Text": "Write 10+ lines of Python code",
+    "Alias": "python_coding_practice",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "a3f69b34-1425-4c61-9c4b-7efc0a99660e",
+    "Type": "habit",
+    "Text": "Complete a structured Python learning session",
+    "Alias": "python_learning",
+    "Tags": "",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "305f7164-f834-41fc-8a5e-143ef94d5348",
+    "Type": "habit",
+    "Text": "Implement learnings from MEX",
+    "Alias": "No Alias",
+    "Tags": "Learning, Business",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "de8849ea-02ec-465f-aaac-16b586652ad5",
+    "Type": "habit",
+    "Text": "Meditation session (at least 3 mins)",
+    "Alias": "meditation_3min",
+    "Tags": "Health, Mindfulness",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "dd629c88-313b-4117-b2ed-4a2d112228cf",
+    "Type": "habit",
+    "Text": "Review and adjust budget for upcoming expenses",
+    "Alias": "finance_checkin",
+    "Tags": "Financial, Discipline",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "a7d486d3-7bcd-4fc4-85ff-bdabe49ae3b0",
+    "Type": "habit",
+    "Text": "Skip a planned workout",
+    "Alias": "skip_workout",
+    "Tags": "Health, Fitness",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "5f1851b9-bab3-4e0b-9925-f24592843edb",
+    "Type": "habit",
+    "Text": "Work on AMP Events, YouTube, or AI integration for at least 30 mins (tracked weekly).",
+    "Alias": "progress_longterm",
+    "Tags": "Work",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 1
+},
+{
+    "ID": "23ff729d-7dae-48ec-b48e-9fd38857cad7",
+    "Type": "habit",
+    "Text": "Spend money impulsively outside the budget",
+    "Alias": "impulse_spending",
+    "Tags": "Financial, Discipline",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "b8865d32-505f-4e94-90af-e17152df9ce4",
+    "Type": "habit",
+    "Text": "Complete a structured learning session (Course, Reading, or Hands-on Practice)",
+    "Alias": "active_learning",
+    "Tags": "Learning",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 1
+},
+{
+    "ID": "f51f92e8-6c51-4267-b3a5-97f47de42600",
+    "Type": "habit",
+    "Text": "25 minutes cardio or lifting session of at least 3 exercises of 3 sets",
+    "Alias": "exercise_15min",
+    "Tags": "Fitness, Health",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "60e0f5f8-13de-4841-8707-ea29041d39ea",
+    "Type": "daily",
+    "Text": "Read a page of \"Love and Respect\"",
+    "Alias": "No Alias",
+    "Tags": "Family",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "8eeadbba-59b8-4aa3-a622-fbafbbc86088",
+    "Type": "daily",
+    "Text": "Spend 30 minutes coding in a personal project",
+    "Alias": "python_personal_project",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "e0e76b24-66ee-4d18-be9f-afffb7024a13",
+    "Type": "daily",
+    "Text": "Read 5-10 pages of Python-related material",
+    "Alias": "python_reading",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "0c78c3ff-57ed-4512-b58b-128e42b819d4",
+    "Type": "daily",
+    "Text": "Complete a Python coding exercise",
+    "Alias": "python_coding_daily",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "a3805553-8c48-419e-b795-e49117bfa398",
+    "Type": "daily",
+    "Text": "duolingo lesson",
+    "Alias": "duolingo_lesson",
+    "Tags": "Learning, DuolinGoals ",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "e1403ac8-3042-4b9f-a81d-5ffcb1fb4c7b",
+    "Type": "daily",
+    "Text": "Complete a priority project task",
+    "Alias": "coding_30min",
+    "Tags": "Learning, Coding",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "d7eefc37-a500-438a-a845-7af24f6e44b0",
+    "Type": "daily",
+    "Text": "Do one focused task without distractions (Pomodoro session, deep work block)",
+    "Alias": "focus_pomodoro",
+    "Tags": "Productivity/Organizational, Work",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "6dfd4b3f-aaee-473f-9386-18e4773a9cbc",
+    "Type": "daily",
+    "Text": "Write down 3 key priorities for tomorrow before 10 PM",
+    "Alias": "plan_tomorrow",
+    "Tags": "Productivity/Organizational",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "e547d6aa-48b6-427e-b9d1-142871778ad1",
+    "Type": "daily",
+    "Text": "Process business emails",
+    "Alias": "process_emails",
+    "Tags": "Work",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "88a79abc-030c-46dc-84d3-44b827505c88",
+    "Type": "daily",
+    "Text": "Complete one lesson from the Digital DJ Tips Scratch Course ",
+    "Alias": "dj_scratch_lesson",
+    "Tags": "Creativity",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "8b03e35c-92dc-49e7-b5e0-05352c8ccf3b",
+    "Type": "daily",
+    "Text": "At least 1 hour of uninterrupted, tech-free family time daily ",
+    "Alias": "family_time",
+    "Tags": "Family",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "5ffe30cd-a0b3-49ba-a2db-9c87cb132b58",
+    "Type": "daily",
+    "Text": "Complete a full workout OR at least 30 mins cardio on rest days",
+    "Alias": "workout_lift_cardio",
+    "Tags": "Health, Fitness",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "b588375c-dea1-451c-9135-3ac9d42b1cd5",
+    "Type": "daily",
+    "Text": "DJ practice or SoundGym session (At least 3x a week)",
+    "Alias": "dj_soundgym",
+    "Tags": "DJ, sound-design",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "4353005d-d7b8-4f4c-98ee-c3c777f1b2be",
+    "Type": "daily",
+    "Text": "Review Copilot Transactions",
+    "Alias": "review_budget",
+    "Tags": "Financial",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "696f68b2-71fb-4b05-a721-d73eed82ab44",
+    "Type": "daily",
+    "Text": "**Move During Calls or Breaks \ud83d\udcde\ud83c\udfc3\u200d\u2642\ufe0f**",
+    "Alias": "No Alias",
+    "Tags": "Office Fitness Boost",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "3d0f7117-1400-428a-b84d-ce0c3f2afc4d",
+    "Type": "daily",
+    "Text": "**Stretch at Your Desk \ud83d\ude46**",
+    "Alias": "No Alias",
+    "Tags": "Office Fitness Boost",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "904eb47f-9b5f-461f-a63d-ae538fcc9596",
+    "Type": "todo",
+    "Text": "Pay last frontier electricity bill ",
+    "Alias": "No Alias",
+    "Tags": "",
+    "Priority": 2,
+    "Due Date": "2025-03-07T14:49:00.000Z",
+    "Completed Count": 0
+},
+{
+    "ID": "fb9f2a54-9418-45f9-81ad-524d570c1f8e",
+    "Type": "todo",
+    "Text": "get plane ticket for puerto rico",
+    "Alias": "No Alias",
+    "Tags": "Family",
+    "Priority": 2,
+    "Due Date": "2025-03-02T10:33:00.000Z",
+    "Completed Count": 0
+},
+{
+    "ID": "89e48743-cd4f-4aa7-a147-665c5ca1d9c5",
+    "Type": "todo",
+    "Text": "Contribute to open-source project",
+    "Alias": "python_open_source_contribution",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "e4ba653d-e0af-4ee3-a8f4-7737cc9fe346",
+    "Type": "todo",
+    "Text": "Deploy a web app using Flask/Django",
+    "Alias": "python_web_project",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "2afaa1ec-ad56-43fc-ba0f-d9e848a9ab6c",
+    "Type": "todo",
+    "Text": "Build a personal project with APIs",
+    "Alias": "python_api_project",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "d2c2eb13-1d4c-444b-b520-a3a09afcbf8c",
+    "Type": "todo",
+    "Text": "Complete Phase 3: Advanced Python",
+    "Alias": "python_phase3_complete",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "0751848a-5f39-45ae-a0af-34423529c93e",
+    "Type": "todo",
+    "Text": "Complete Phase 2: Intermediate Python",
+    "Alias": "python_phase2_complete",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "4225dc5b-a2c0-4a85-994b-b5e5384dd589",
+    "Type": "todo",
+    "Text": "Complete Phase 1: Foundational Python",
+    "Alias": "python_phase1_complete",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "707348dc-176d-486f-839e-f3a5504b6b38",
+    "Type": "todo",
+    "Text": "Clean DJ room",
+    "Alias": "No Alias",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "35af6de3-ca9e-4aa2-91d4-26c46de338c7",
+    "Type": "todo",
+    "Text": "1 shooting range session at Agis Arms",
+    "Alias": "No Alias",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "6a69d8e2-fa16-4bf4-95ea-18f5b7b69b32",
+    "Type": "todo",
+    "Text": "Purchase TV Mount for Office TV",
+    "Alias": "tv_mount",
+    "Tags": "",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "a188bed2-2eb9-4f9c-ba8d-11ac58d02bcb",
+    "Type": "todo",
+    "Text": "Write out a short-term & long-term business goal list",
+    "Alias": "biz_goals",
+    "Tags": "Business",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "ed952516-5db5-4d87-b069-58861610bf80",
+    "Type": "todo",
+    "Text": "Identify and compare at least 3 non-REIT investment options and document pros/cons.",
+    "Alias": "invest_research",
+    "Tags": "Financial",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "9d1ea035-cf6a-442d-a485-2c780cff1ff7",
+    "Type": "todo",
+    "Text": "Complete keyword research & update AMP\u2019s website",
+    "Alias": "amp_seo_update",
+    "Tags": "Work, Business",
+    "Priority": 2,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "1bd962d1-33bd-44a8-be8c-d10411bddac3",
+    "Type": "todo",
+    "Text": "**Quest 5: \ud83c\udff0The Fortress of Solitude**",
+    "Alias": "No Alias",
+    "Tags": "Fun",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "d1369dd5-a289-486b-ac61-b7879588e83c",
+    "Type": "todo",
+    "Text": "**Quest 4: \ud83c\udf3bThe Sunshine Quest**",
+    "Alias": "No Alias",
+    "Tags": "Fun",
+    "Priority": 1.5,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "3179b75d-cd09-43f2-a300-93aed7bcb37b",
+    "Type": "reward",
+    "Text": "Try a new restaurant",
+    "Alias": "new_experience",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "fd2a8c88-c6e5-4ae6-ad58-0c75ee43e477",
+    "Type": "reward",
+    "Text": "Buy a new book or audiobook",
+    "Alias": "book_reward",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "e9ca5d57-c5e2-40f8-a403-064a3fcee935",
+    "Type": "reward",
+    "Text": "Order a meal out guilt-free",
+    "Alias": "meal_reward",
+    "Tags": "Health",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+    "Completed Count": 0
+},
+{
+    "ID": "b667b63f-b77b-43f7-81d4-bc8ab3f282fc",
+    "Type": "reward",
+    "Text": "Take a guilt-free gaming session",
+    "Alias": "gaming_reward",
+    "Tags": "",
+    "Priority": 1,
+    "Due Date": "No Due Date",
+}
+]
