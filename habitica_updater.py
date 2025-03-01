@@ -46,15 +46,24 @@ def fetch_github_tasks():
 def get_existing_tasks():
     response = requests.get(HABITICA_API_URL, headers=HEADERS)
     
+    print(f"🔍 Habitica API Response Code: {response.status_code}")  # Debugging
+    
     if response.status_code == 200:
         try:
-            data = response.json().get("data", [])
-            return {task["text"]: task["id"] for task in data if "text" in task}  # Ensure "text" key exists
+            data = response.json()
+            print(f"🔍 Habitica API Response Data: {json.dumps(data, indent=2)}")  # Debug full JSON response
+            
+            if "data" not in data:
+                print("❌ 'data' key missing in Habitica response")
+                return {}
+
+            return {task["text"]: task["id"] for task in data["data"] if "text" in task}
+        
         except json.JSONDecodeError as e:
             print(f"❌ JSON decoding error when fetching existing tasks: {e}")
             return {}
     
-    print("❌ Failed to retrieve existing tasks from Habitica")
+    print(f"❌ Habitica API Request Failed. Response: {response.text}")  # Show response details
     return {}
 
 # Create a new task in Habitica
